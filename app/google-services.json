@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675417411306",
+    "project_id": "loginkotlinapp-8c9b9",
+    "storage_bucket": "loginkotlinapp-8c9b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675417411306:android:8e80c3a7df7043031cd193",
+        "android_client_info": {
+          "package_name": "com.example.quizzyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675417411306-40jfus399st57roe0cd1l56s1a1tgrvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5kiCLgvE25EWw25gPebP8wh4XXIAxDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675417411306-40jfus399st57roe0cd1l56s1a1tgrvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
